@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.json
+/.vs
+/MathMethods/.vs/MathMethods/v16
+/MathMethods/lw4/bin/Debug/net5.0
+/MathMethods/lw4/obj/Debug/net5.0/ref
+/MathMethods/lw4/obj/Debug/net5.0
+/MathMethods/lw4/obj
